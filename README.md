@@ -1,4 +1,4 @@
 # daphnia
 Data from Daphnia experiment
 
-devtools::install_github("roberamo/daphnia")
+Install in R using devtools::install_github("roberamo/daphnia")
